@@ -39,10 +39,12 @@ Aqui estão alguns dos projetos em que venho trabalhando (não esqueça de fixar
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoian&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leonardoian&show_icons=true&theme=dracula&include_all_commits=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoian&layout=compact&langs_count=7&theme=dracula)
+
+</div>
 ---
 
 ### 📫 Como me encontrar
