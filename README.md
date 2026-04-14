@@ -45,9 +45,8 @@ Sou um desenvolvedor **Full Stack** com foco em criar aplicações robustas e es
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🔗 Projeto 1](#) | Breve descrição do que ele faz | TypeScript, Node.js |
-| [🔗 Projeto 2](#) | Breve descrição do que ele faz | Python, .NET |
-| [🔗 Projeto 3](#) | Breve descrição do que ele faz | JavaScript, C# |
+| [🤝 AmigosNet](https://github.com/leonardoian/amigosnet) | Site para localização e conexão entre amigos | JavaScript, Node.js |
+| [🌾 Agropecuária Vida Longa](https://github.com/leonardoian/agropecuaria-vida-longa) | E-commerce que envia o pedido automático via WhatsApp com endereço, itens e valor do cliente | JavaScript, Node.js |
 
 ---
 
