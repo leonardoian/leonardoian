@@ -21,7 +21,7 @@
   </td>
   
   <td width="40%" valign="top" align="center">
-    <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-laptop-4053912-3363388.png" width="100%" alt="Ilustração Developer" />
+    <img src="https://raw.githubusercontent.com/suvadeepghoshal/suvadeepghoshal/main/assets/dev.gif" width="100%" alt="Ilustração Developer" />
   </td>
  </tr>
 </table>
