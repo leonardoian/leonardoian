@@ -43,8 +43,6 @@ Sou um desenvolvedor **Full Stack** com foco em criar aplicações robustas e es
 
 ## 📌 Projetos em Destaque
 
-> ⚙️ *Atualize esta seção com os seus projetos reais!*
-
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [🔗 Projeto 1](#) | Breve descrição do que ele faz | TypeScript, Node.js |
