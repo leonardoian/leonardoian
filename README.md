@@ -10,7 +10,7 @@
       e integram sistemas complexos.
     </p>
     <p>
-      🎮 Nas horas vagas, gerencio o canal [SRLEO23](SEU_LINK_DO_YOUTUBE_AQUI) no YouTube, focado em gameplays narrativas.
+      🎮 Nas horas vagas, gerencio o canal [Guru Tech Canoas](https://www.youtube.com/@GuruTechCanoas) no YouTube, focado em Manutenção de Computadores.
     </p>
     <h3>📂 Projetos em Destaque</h3>
     <ul>
