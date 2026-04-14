@@ -1,68 +1,67 @@
-# <img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/master/Hand.gif" width="30px"> Olá, eu sou o Leonardo Ian!
+<h1 align="center">Olá, eu sou Leonardo Ian de Oliveira 👋</h1>
 
-<table border="0">
- <tr>
-  <td width="60%" valign="top">
-    <h3>🎓 Estudante de Ciência da Computação</h3>
-    <p>
-      Sou um entusiasta do desenvolvimento de software, com foco em aplicações Full-Stack e automação de processos. 
-      Aplico lógica e programação para resolver problemas reais, criando ferramentas que otimizam o controle de estoque 
-      e integram sistemas complexos.
-    </p>
-    <p>
-      🎮 Nas horas vagas, gerencio o canal [Guru Tech Canoas](https://www.youtube.com/@GuruTechCanoas) no YouTube, focado em Manutenção de Computadores.
-    </p>
-    <h3>📂 Projetos em Destaque</h3>
-    <ul>
-      <li><b>Dashboard Financeiro:</b> React + Node + Firebase.</li>
-      <li><b>Sistema FIFO:</b> Gestão de estoque logístico real.</li>
-      <li><b>Algoritmo de Dijkstra:</b> Rotas entre capitais em Java.</li>
-    </ul>
-  </td>
-  
-  <td width="40%" valign="top" align="center">
-    <img src="https://raw.githubusercontent.com/suvadeepghoshal/suvadeepghoshal/main/assets/dev.gif" width="100%" alt="Ilustração Developer" />
-  </td>
- </tr>
-</table>
-
-<br/>
-
-<h2>🛠️ Habilidades & Ferramentas</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="40" alt="Excel VBA" />
-</p>
-
-<br/>
-
-<h2>📊 Estatísticas</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardoian&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoian&theme=dark&hide_border=true" height="150" alt="Streak" />
+  <em>Desenvolvedor Full Stack · Apaixonado por tecnologia e soluções que fazem a diferença</em>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-ian" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/oleoian" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:leoianoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<h2>📫 Como me encontrar</h2>
-<p>
-  <a href="leoianoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-ian-b8b410274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@GuruTechCanoas">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube SRLEO23" />
-  </a>
+---
+
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor **Full Stack** com foco em criar aplicações robustas e escaláveis. Gosto de trabalhar tanto no front quanto no back-end, unindo experiência do usuário com arquitetura sólida.
+
+- 🔭 Sempre em busca de novos desafios e projetos
+- 🌱 Aprendendo e evoluindo continuamente
+- 💬 Aberto a colaborações e oportunidades
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+> ⚙️ *Atualize esta seção com os seus projetos reais!*
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🔗 Projeto 1](#) | Breve descrição do que ele faz | TypeScript, Node.js |
+| [🔗 Projeto 2](#) | Breve descrição do que ele faz | Python, .NET |
+| [🔗 Projeto 3](#) | Breve descrição do que ele faz | JavaScript, C# |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardoian&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoian&layout=compact&langs_count=7&theme=default&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <em>Feito com ❤️ por Leonardo Ian de Oliveira</em>
 </p>
