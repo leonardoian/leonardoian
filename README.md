@@ -54,7 +54,7 @@ Aqui estão alguns dos projetos em que venho trabalhando (não esqueça de fixar
   <a href="https://www.linkedin.com/in/leonardo-ian-b8b410274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="LINK_DO_SEU_CANAL_YOUTUBE">
+  <a href="https://www.youtube.com/@GuruTechCanoas">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube SRLEO23" />
   </a>
 </div>
