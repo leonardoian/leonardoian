@@ -54,22 +54,24 @@ const leonardo = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤝 AmigosNet</h3>
-      <p align="center">
-        <a href="https://github.com/leonardoian/amigosnet" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoian&repo=amigosnet&theme=dark&hide_border=true" alt="AmigosNet"/>
-        </a>
+      <h3>🤝 AmigosNet</h3>
+      <p>Veja onde seus amigos estão em tempo real no mapa. Cada pessoa escolhe seu nome e personagem e aparece para todos instantaneamente — sem cadastro.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
-      <p align="center">Site para localização e conexão entre amigos</p>
+      <a href="https://github.com/leonardoian/amigosnet">→ Ver repositório</a>
     </td>
     <td width="50%">
-      <h3 align="center">🌾 Agropecuária Vida Longa</h3>
-      <p align="center">
-        <a href="https://github.com/leonardoian/agropecuaria-vida-longa" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoian&repo=agropecuaria-vida-longa&theme=dark&hide_border=true" alt="Agropecuária Vida Longa"/>
-        </a>
+      <h3>🌾 Agropecuária Vida Longa</h3>
+      <p>E-commerce completo para loja agropecuária. O cliente monta o carrinho e o pedido é enviado automaticamente via WhatsApp com endereço, itens e valor total.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
       </p>
-      <p align="center">E-commerce com envio automático de pedidos via WhatsApp</p>
+      <a href="https://github.com/leonardoian/agropecuaria-vida-longa">→ Ver repositório</a>
     </td>
   </tr>
 </table>
