@@ -89,7 +89,7 @@ const leonardo = {
 
 | 📁 Repositórios | ⭐ Stars | 👥 Seguidores | 📝 Commits (2026) |
 |:-:|:-:|:-:|:-:|
-| 6 | 0 | 1 | 22+ |
+| 10 | 0 | 1 | 22+ |
 
 </div>
 
