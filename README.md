@@ -81,12 +81,12 @@ const leonardo = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoian&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoian&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoian&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoian&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=leonardoian&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
