@@ -81,12 +81,20 @@ const leonardo = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardoian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonardoian&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoian&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" onerror="this.style.display='none'"/>
 </p>
 
+<div align="center">
+
+| 📁 Repositórios | ⭐ Stars | 👥 Seguidores | 📝 Commits (2026) |
+|:-:|:-:|:-:|:-:|
+| 6 | 0 | 1 | 22+ |
+
+</div>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leonardoian&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=leonardoian&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
