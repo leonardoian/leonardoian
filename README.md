@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Leonardo%20Ian&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-ian" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-ian-b8b410274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/oleoian" target="_blank">
