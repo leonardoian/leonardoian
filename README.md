@@ -94,7 +94,7 @@ const leonardo = {
 ## 🎵 Tocando agora...
 
 <p align="center">
-  <img src="./cassette.svg" alt="Cassette Tape" width="400"/>
+  <img src="https://raw.githubusercontent.com/leonardoian/leonardoian/refs/heads/main/cassette.svg" alt="Cassette Tape" width="400"/>
 </p>
 
 ---
